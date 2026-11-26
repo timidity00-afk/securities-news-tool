@@ -1,0 +1,25 @@
+{
+ "sample": true,
+ "updated": "샘플",
+ "notes": [],
+ "industry_updated": "샘플",
+ "industry_days": 2,
+ "hmc_updated": "샘플",
+ "hmc_days": 14,
+ "industry": [
+  {
+   "title": "(샘플) 증권업계 관련 기사 제목이 여기에 표시됩니다",
+   "source": "언론사",
+   "date": "11.25 09:00",
+   "url": "https://news.google.com"
+  }
+ ],
+ "hmc": [
+  {
+   "title": "(샘플) 현대차증권 관련 기사 제목이 여기에 표시됩니다",
+   "source": "언론사",
+   "date": "11.25 09:00",
+   "url": "https://news.google.com"
+  }
+ ]
+}
