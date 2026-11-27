@@ -3,10 +3,70 @@
  "sample": false,
  "industry": [
   {
+   "title": "[더밸류 브리핑] 오늘의 증권사 소식...한국투자증권·현대차증권·SK증권",
+   "source": "더밸류뉴스",
+   "date": "11.27 14:29",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoSmJZSUFjN0ZoQWZvWEJ2TU52Y1IwVGdFS0JTcXNKenVlb3NpVjl4N3RhTVJUQlN6Y0VsUjlCNkc3TmJ3RE1YNUJGQVRJS3RvTXREVQ?oc=5"
+  },
+  {
+   "title": "증권사 API에 AI 올라타…개인투자·저축·포트폴리오 검증까지 핀테크 판 흔든다",
+   "source": "아주경제",
+   "date": "11.27 14:16",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MQTZkOURTeEFBWUthSzk0cFdMOG02MWJlNFcyRS1jQUxmZl9MemNQbVlzSTFzdWtVVllBUkppV0dsU2hmZ05nWjFiQURwZjBFejFfQTlweWhxd9IBWEFVX3lxTE9sNFZ2ckxSaWU2RmVqVHJ1aW9aLUE3Wk9ySGhBcUllZS1JMmxrMWJuMTA1N1E4Rll4b3VSckwzdDgwRExRdllyNzYyR3NiaUdVMk1vc0kyTHc?oc=5"
+  },
+  {
+   "title": "증권사 믿고 맡겼는데 '몰빵 투자'?…지점형 랩어카운트 부실운용·수수료 논란 도마 위",
+   "source": "와이드경제",
+   "date": "11.27 14:04",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FQXdGMWZiQ213eGx1X204QnVxVFU5cFVoTXJKN01mUHlYQzdDWG5veG1Wb21wWktIT2RDeEF6THpmR1ZNU19pSklaZzNkcW92OUloSmpNTGoyYkJKTUQtZlppdVJ6bXVOcERwRA?oc=5"
+  },
+  {
+   "title": "증권사 믿고 맡겼는데 '몰빵 투자'?…랩어카운트 부실운용 왜 반복되나",
+   "source": "뉴시스",
+   "date": "11.27 13:51",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Yek54V1R3LXJYWF9hcklObWtWQldFSzFINUc0SG1OenBGUEgxOEpRNTl1MlRpNlVUbnNmV2YtUldpRXk3S2dRNEg3d3ltY3o2ZUVtbmFoQnBsX3ZUTFdTVNIBeEFVX3lxTE9IZW54R25CZm14VUlWdlhkWldEamZOZWRqbXdWeXJzSFB5dHVyOEJsd2xlb1JGbm4tZFpFNUtFTzZ4UE1VX2RPc2dGOENuZDU4NjJXM0tYM1NWNVBvbG5udF9VWWdTUm9ac0huc2tnTnNObXVRakotLQ?oc=5"
+  },
+  {
+   "title": "은행부터 증권사까지 해킹 '비상'···보안株 투자 기대감 커진다",
+   "source": "뉴스웨이",
+   "date": "11.27 13:49",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lbzBJT3VBRDNSVkRVU216LVBZTF9DbzMzZXQ4RnUxOHR2NFV1Rkc1bEREX25PVnpqY3h6RFRIN2QzcGh3UGpPY3pvTWlYWkx5ME9BVzNDMU9SdDdtd0thZ3ljcm5vMU1DWVE?oc=5"
+  },
+  {
+   "title": "거래대금 급감에 추가 긴축까지···증권업계 실적 회복 '산 넘어 산'",
+   "source": "뉴스웨이",
+   "date": "11.27 13:33",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hbUZadzlEeERRajY5M3FNMFJPYmpnZGxVQXRWQjh4VzI4QlZ0M215aXBTQVdPeENwa09VejhlMkd2MXlGa0hnbXZjSkp6LV9XMldseEhnamIxLXJldzJLaW1ZbUk1ZTRlelE?oc=5"
+  },
+  {
+   "title": "총리: 적용될 관세는 미국이 발표할 것으로 예상되는 최대 수준보다 훨씬 낮을 것입니다.",
+   "source": "Vietnam.vn",
+   "date": "11.27 13:27",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdVFFUV9fRHRqbzQ2LXlHdG9Gb2pwOGR4Q3V5aFUxNHdNc3hxTjltVllTQWM5dF9RSFFEd1BqbFk1MFMtRW9XeGhpaW1TMjVxblhpY0FvbWhEOGpuMVpuOHFUYVdGeF91eF9JUXBzNFd1ZlowQWNPekd1dk0wTS1OakV6TF9xYlVsMDlGaVgzOUszU2hPUHUzeDdqLUpoTURzZWlINXRn?oc=5"
+  },
+  {
+   "title": "레민흥 총리가 베트남 증권업계 전통의 날 30주년 기념식에서 한 연설.",
+   "source": "Vietnam.vn",
+   "date": "11.27 12:59",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc1hlTmJOOXhpb2dTWkF5bXNzX0VpcHg5MHpjZkgzUnhMTHZkY2VlNkhJVUJIUzRnS25zYjNSUWw3M0lSRjNWQzB2dVhieVZsaTM4cC1hNDFhMjVpRUF0MHZ4WGNmMWRhTkt5d1lxVnYwaFlTbmVWMXp2RUFmcWl5dm42cmFPZEdmeWxPNFcxUEUzZUFhUE1JN3FlbEpqTU1TMlVHNDMwWXdwLWF3TW9LeGR5Y05JVDgxNW1pdFo1Yi1YOXhLRHRoRQ?oc=5"
+  },
+  {
    "title": "2026.11.27.(금) 증권사리포트 \"세미파이브 - Make ASIC Great Again\"",
    "source": "네이버 프리미엄콘텐츠",
    "date": "11.27 12:32",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOHhUaXhSTzFGVXhvbk1uT1VtVFFiMDZYX21POW42N2J1ZGV1b19waXZ5M24xbXU3VllRbllReVZERlNranlYLVlOZEE5a0ZXekVyYndNTUVPdEdwekI1QjY5V0k3ZFZvcll2YmRMVFRyV04yd2c4MnVsWUpHSm5kM0tB?oc=5"
+  },
+  {
+   "title": "금투업계, 자립준비청년 139명에 ISA 3년간 15억 지원",
+   "source": "화이트페이퍼",
+   "date": "11.27 12:25",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQWVNmYVhEVTNZeHZhWmt3bGdKb21qZVJVSDhZSW1JUmJDMUlzczZMam9KQW96OExweWNIb21lMHBPWm5lQi1sb1FIQktTY1UxWG5JRVZ0YkZEUnp5dlNTdDdMblgzcVJPdkFuS0VzMVjSAXNBVV95cUxNMThHSWl5SXNXZXBTRXBSbk5wakpHaEpTb3VhRWVZTi1YUXNXTVhTZmFGdFJpU1piQy1GT1NwLU1BT3JRWFN4QTBhY2FZT19OZlMyWlV1dUwxYzk1dWctVHl2UVdlb3paVS1WZG1zbkI4RmlV?oc=5"
+  },
+  {
+   "title": "레민훙 총리는 베트남 증권업계 전통 기념일 30주년 기념식에 참석했다.",
+   "source": "Vietnam.vn",
+   "date": "11.27 12:05",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdHZYa3dDUHV5UDBIbXdSak1SVHEtbGNybHNkRGNaQ2FiVTRscVRhN2djVUZmVUIwZEk1WE5TTk5RY2ptNFhxd0llY1lOVTRXLWE3UFNYWHJZZF80dy0xNGd2UjV0bGJOeFZIWU45elBtNjRWNk1fRmNFcTdOemhpRWE2T2JFTHMxR3hoN2VNa0s3TW9IRDJVTkF6bkRmSzN5cmZJTk5IdXBMaTNaTVhhQm1XekY?oc=5"
   },
   {
    "title": "요약: 베트남 증권업계 전통 기념일 30주년 기념 행사",
@@ -51,6 +111,12 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vUERuc20zV1BhWkdEWDV4SEdSSzdmRlJUajliTFFUelRQWkVIN2x2V0NOSF9VNHRSOC1ldWNwQkp1QjRyWVFyTEUzazJmVFFyRkVIUWVCdEE3TlhjNGdDVFJRcUxGRjUtYi1YRtIBcEFVX3lxTFBRcEl5WEhJZzJQWFlLMk4xUE9maVNpWDBrOWxlY2phRDVHVUVfWTQ4SkhMal8xSTNIdFpQaDhNQ3N6ZmJIZFpsMkJoSWFkLTRFM00yUVZiVUtjelZDUGdIRzNqTDZLaVRXZTF4a3Ezek8?oc=5"
   },
   {
+   "title": "금융투자업계, 자립준비청년 ISA 후원사업 후원증서 수여식 개최",
+   "source": "핀테크경제신문",
+   "date": "11.27 08:29",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15b0JXQlBRdzZ6aWN1aVBDdGdQSGwtbEZXUDFUNXYxNVBycGtCZjRENkt5ZVFNZld0QjZyNHZ1UzhHZ1Z5ZXBQaGMtYllDZnpaRUU0ejJvNndPUnFFYXdnMFJHazZ0d1kt?oc=5"
+  },
+  {
    "title": "달라진 증권사 유튜브···홍보보다 ‘재미’",
    "source": "이뉴스투데이",
    "date": "11.27 08:00",
@@ -65,8 +131,8 @@
   {
    "title": "랩·신탁 기관경고 여파에…펀드 공동운용 제동 걸린 증권사들",
    "source": "인베스트조선",
-   "date": "11.27 07:02",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSC1ySlN4ZmR1QmtkQ2htOVUyTmRVWl96Z25DbDM0TDBhMDRnNWM1TGVHbTlmNHQydVJ4ZHRxSE1iVDc3by04OG1DQ2U0dVhYWkhheGNCZWlCZS1WMDAtU2RYQXhhaVBnVE9LRC1qS29WdGFuNXMtejRxRU9EUENNSDlSQQ?oc=5"
+   "date": "11.27 07:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BdElvREhXS09xcWhuQ2UtdTJIRzNwSkVrenQ5VUx2MUd3YjBJZVZ6R1dvNFFYVldJVDB4aTZzWHpxdV9sMmR3ZmpGeHBTUFJrTl9uUFNabS05dnR0T0QzZWMtbHJYREp3MGxTN0tXVXVkZw?oc=5"
   },
   {
    "title": "美주식 사는데 투자성향 안 따져… 증권사마다 기준 제각각",
@@ -93,12 +159,6 @@
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbEh5X04zMEVOV25pQVlaaXIwMFN6VHJJbHYyam94R21SVDY1bmxiWHdfS0NJTmU0al9WdGhhMzVXZ0FqWVBIdWhKTWM1c01tYzFxekQtam1NQU1rNGk5dG1hT0M3RDJQMTVWQm14RnZOdEpOLUZwaVJHRldtYnN0TWFscDVmRm9VTkExMlJR?oc=5"
   },
   {
-   "title": "금융투자협회, ISA 활용 자립준비청년 지원 확대…장기투자·자산 형성 지원",
-   "source": "이코노미사이언스",
-   "date": "11.26 23:01",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCdk1LS2JEWllYM2lIb1M0aG52dzBndHhvc0RGYVBLWnFVMkdfNi1ob3ZPcEVLZWxsU2hvOWhaVlF1cnNuZ004SWxMOEZQTDF6VzB0b1R5RnRVZEJ6QlMtQnhmaFAzdW9ienNmVWdSVQ?oc=5"
-  },
-  {
    "title": "증권업계의 입지를 확고히 하고 미래를 열어가는 30년의 여정.",
    "source": "Vietnam.vn",
    "date": "11.26 21:30",
@@ -109,6 +169,12 @@
    "source": "위키리크스한국",
    "date": "11.26 18:35",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rWWRocVpRb3gxZ01VZHlRSTBCV3JuNGJiaTJwTk1mRFYxS0YtSkxjaDRQYkpDRmNWSUNkTl9aLTRKTHRaNXE5V3d6dlZOVEtGZ2d0VER6SFZ1TDRBcExhWmZOQmtxc0xzRndVZkk3TWQ?oc=5"
+  },
+  {
+   "title": "은행·증권사, 디지털자산 보관업 진출 쉬워진다",
+   "source": "TradingView",
+   "date": "11.26 18:16",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0MG9ibms2NXgwWFpvSW5ZeldZczRLVDRQUjdDSjJEZHNJdFlhcjRjN3F3NTQ4Zi1wYmVfbm5xYVgwTlcyNEZXUXo1a2hTelMycFdJNEw3c1dicktIZVdkdS1ySWdsdGUw?oc=5"
   },
   {
    "title": "단기채 늘린 NH증권, 증권주 줄하락에도 '선방'",
@@ -133,12 +199,6 @@
    "source": "핀포인트뉴스",
    "date": "11.26 17:26",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyRElKT1pweHVhN1dlekZSWlVXMTRvMFFHMzdsQWlWdmNieVlmeW5lN2dPdXJ6UFd2OUo3UUE3Y3FQWEsyNy1PVXlpSVhGc283eUk1Y0daRGp4Rlg3S3VVNnNZSlFfc1dKZ2JZTUVlMThoQU3SAXdBVV95cUxPWlhGUEhHYWk5NnliMDcxQ2hLUXRQUG5OaTZVeHJpY1BqSFgzd3RrLVJzc3hEck13MzQtaVl4MjhpanB5aXVPeUJUTk1yeDBzX0Q4aEFsXzhyZTVDRExKTWVnemY5YWFNeWNaYU00SlNtQWwzZUljdw?oc=5"
-  },
-  {
-   "title": "금투협, 자립준비청년 139명에 ISA 후원···3년간 15억원 지원",
-   "source": "서울파이낸스",
-   "date": "11.26 17:23",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05bU5xY1BMSGV4b1JJU2F3VnpjLWZXakpsa1gwTlRTWkM4X2pqc2s5VGJwUzRmRjdzNXRoWVlONjVLRTRQcUQ0MkZBTUxSYm5WTExZcE96aTlmZEZOUC1BcHJ2MkhfYnByOGc?oc=5"
   },
   {
    "title": "금투협, 증권사 14곳과 자립준비청년 ISA 후원 확대",
@@ -169,18 +229,6 @@
    "source": "DFT 대한금융신문",
    "date": "11.26 16:54",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OQk5ERi1tcnlObWRKZnlwd2ZGNHQ2ZldJTkVSZGE4YUs2Wi1CVENWRUFmS0trMTlmZUliUkpzUm1Jdm5pOHRLVkQwTVdnZkNscFRtUXRtUDhHcHhSQlN5TU1rR1BYWUtLeHgxSdIBcEFVX3lxTE5wUVk1R1FWS3hOcTcyNHJDbnc4dDduVm1DR0syVFZac25TUG5yVER1NW42UjlhNjlZc2VfbWsyckdmb09COXJSaktfRjRYaTZ3NWJxNk5vWVVmX2pZYU93bUF2a3h4d3c5TUowY2tjcUw?oc=5"
-  },
-  {
-   "title": "\"청년 홀로서기에 15억원\"…금투협, ISA 후원사업 확대",
-   "source": "데일리안",
-   "date": "11.26 16:54",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mNHI3bkJtZWFnLWlpTE4tVW9NX0tXZGx2azFYLUp1NzRETjRMVEVOOXFwaWNhRFV4TlVaSEFKaFRQOW5DWWlZdmVDODRnTlRObTFpNw?oc=5"
-  },
-  {
-   "title": "[더밸류 브리핑] 오늘의 증권사 소식...교보증권·우리투자증권· 카카오페이증권",
-   "source": "더밸류뉴스",
-   "date": "11.26 16:47",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1a1UwNnFVNHNvQ0xqbDVCOVppZ21DTjY5cW5IWHlYN1Jia2lmSVEwbzdZVFR5VnBWYjE2S1N6VzBuZ0l5OWJicHFrVVFVYkJoZU5RNw?oc=5"
   },
   {
    "title": "금융투자협회, 자립준비청년 ISA 후원 확대…참여 증권사 14곳으로 늘어",
@@ -219,12 +267,6 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZdkVKQ0ZmRTM5SnFoMUMwQ0VJMHRLVUF5YTNjSVNQOHJUS3kzNmNNa09CMTN1SUxxUV9KYTNoSHZFTlVqajU4eU5haHlPOFVoZUVUbUx4ajAzaTdqZ2Vzc1RnTWZwZzVyQWJwUkVDTdIBc0FVX3lxTE9ld3R0NWJBclBlUDNIUGdHYU9HQ0xEelo0NGF0N2x4eGJsQ1FSdWU0SjRCR1daQmwtWHNWc2x1R0xCRkExRXVkeTc2ZnZNcjhOa3c0RDJ6U2ZQaU5HTUdSVVBZUmZyc281ZjNoTlBMNGtfd1k?oc=5"
   },
   {
-   "title": "신재욱·배광수 '투톱' 첫 성적표… NH증권, 3분기 순이익 증권업계 1위",
-   "source": "MTN 머니투데이방송",
-   "date": "11.26 14:54",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FMHhSTEJtNkhYV0dya0U2R0xuUi1zTHpzYUtLQlpxZ2ZyVk1KNTJ1ZnJLVjNIaklvX1FHN3lCd3BUVkx1UVlNV1Q5aTU3dEpaTXM4X2I0ZnE2YjY1Q2Rv?oc=5"
-  },
-  {
    "title": "[단독] '개미들의 증권사' 키움, WM 힘준다…신규 랩 출시·수수료 인하",
    "source": "데일리안",
    "date": "11.26 14:39",
@@ -253,12 +295,6 @@
    "source": "미디어펜",
    "date": "11.26 13:58",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wdWpRYUZFWWVSY0NJM3NXc0doR0ZpSGZlMHlLWGowS0trSVVWYUtUTnl3cllUQS14cmQ5SG5laUJ4MjNDV3JJNDBtaGJ0ZjhRakhvONIBWEFVX3lxTE8taER4ZUlFNWlrMjVraEIyQVZ5V3NyUGFmMmgwOHhQX216ODh0X1pOMTljQ2JBLWxVRGRmbkhyNWxSWG1xRi1HZmZwNXlsdExIaXlnSUlwcUw?oc=5"
-  },
-  {
-   "title": "[더밸류 브리핑] 오늘의 증권사 소식...한국투자증권·KB증권· 유진투자증권",
-   "source": "더밸류뉴스",
-   "date": "11.26 13:50",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBodkQycjliX1VDVWE4S29mS0h6YzRvVFBkaXdja3ZodlZKMUd4X1VTT3hxdlRINWtNblAyNEVQcTZrelBrbU1mU3FKcFBhdmIyV0lJdQ?oc=5"
   },
   {
    "title": "[기자수첩] AI 경쟁 불붙은 MTS…투자자 편의는 ‘뒷전’",
@@ -345,12 +381,6 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yZ01OS29EeENYTlVWdGlILTBIeG13TFBLeWQ4U1dUeFJTTWJJZElhYkdWclNFSlNud3c1cGlXZ1FubXZ4cU5IUm9Bbl9LMHN4TE9QajhqcV9FR3Mxa3Y4Y01ldUk1WjRk?oc=5"
   },
   {
-   "title": "이옥형 유진투자증권 상무, 자본시장 제도 개선 공로로 금융투자협회장상",
-   "source": "서울경제",
-   "date": "11.26 09:43",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZcnJ3dEFXd2tLWi1QR2IzVURuQ0I0dVNyM0hQNEhERE1IWFFWN1RPWktnbllGZmNIUkhoMUFmdTNfQjhpdTNkbkhoOGVqYnFZQlHSAVNBVV95cUxOcUFDMDJkS1U3akZ5VXFJYm5vZDhvLXRhVTVHWS1sak05QzV4VVB6cUVKcmhFYUlDMDJlbl9GT0MtckdEVTF5TTdUOVl0TVJRTl9Mcw?oc=5"
-  },
-  {
    "title": "증권업 3000억 세컨더리펀드, 계열 VC 운용 거론…'일감 몰아주기' 우려",
    "source": "넘버스",
    "date": "11.26 08:48",
@@ -385,12 +415,6 @@
    "source": "이투데이",
    "date": "11.26 05:00",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhWURYOUh0VHUzYUNHRVhsZm5MakdSak1xSnZVRUJ1RWM3RnBZTEQ2VEhhY21WX1hfQXU0QzhLcEFZc29sYTNCVHpxVGt2S0NyZmVfeg?oc=5"
-  },
-  {
-   "title": "증시 한파에 5대 증권사 시총 29조 증발...미래에셋증권 '10조 클럽' 이탈",
-   "source": "핀포인트뉴스",
-   "date": "11.25 22:16",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGOWc0dFo3YTU2Rno1RGxCcHhuY3hrU2RtXy1oX2RuWWU0c1VkcTEyUENudEhmN01CaURDVnlDMllFaWJNM1ZCWW4wZG5ObjFJaTd1cjVVaDJ3VlhnNUkyZWZqWU5fei1YRFloZ2NKQzBQMVZTSlRv0gF3QVVfeXFMUEY5ZzR0WjdhNTZGejVEbEJweG5jeGtTZG1fLWhfZG5ZZTRzVWRxMTJQQ250SGY3TUJpRENWeUMyWUVpYk0zVkJZbjBkbk5uMUlpN3VyNVVoMndWWGc1STJlZmpZTl96LVhEWWhnY0pDMFAxVlNKVG8?oc=5"
   },
   {
    "title": "[증권사 AX 현주소]③ '확장 DNA' 미래에셋증권의 이례적 신중론…AI는 '내부 검증'부터",
@@ -465,12 +489,6 @@
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QM1BCN2xyQXBGMTVweWZ3RjBVR3J6Wk02anZJRGRTbDZFWVNuZmJ1M2dvZ2szcC1RQi1OUV8wUkUwVm9ENUdCUkUySk9yNzBBTUVtV3d2bDhQd0M4UVJDc1ItUEU?oc=5"
   },
   {
-   "title": "증권사 모험자본 반년 새 51%↑…금감원, 투자 규제 완화",
-   "source": "뉴스저널리즘",
-   "date": "11.25 16:52",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85cmI5UThhUnlWUl84UUVlSTJ3XzZIbW1KZ05iRTFuNzBCNmh6dHRDdkxueXF3UDNWU3VPYWpDYk80eHJuZmNFQW9MbFhicU5Wb0lXeG1DLU1PS0VKcUh3V3ZoWlg2U0JtZ3VZ?oc=5"
-  },
-  {
    "title": "산업은행, 대형증권사 대상 '증안펀드' 추가 출자 타진",
    "source": "파이낸셜뉴스",
    "date": "11.25 16:20",
@@ -501,12 +519,6 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tcWpVMWxPbWxvSGhrUC1HdnVzdjZtYXgyY3B4Uk9ucG9RcTl2X0l1OUpWQi1Rck1aUmZMQl9fWkp1Qjl6VkFtdE9KdEw2NmpUMUZpVEp6dEFUOVlvVlQ4Vg?oc=5"
   },
   {
-   "title": "[단독] '금가융합 가속화'...은행·증권사에 디지털자산 보관업 진입 특례",
-   "source": "디지털애셋",
-   "date": "11.25 16:10",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTRFZCdFhkeHlVTF9nQmN0YjFEdDFhd2ZtbzhHZS1fbl9wWnJ3MDB3OU1ZWXdYcHNKSk9GWXFUcUJOQmtmOVRlcjdWa21mZmVja2tkTzQ4ZVhUVy0tTFYxRXBjTm9udFU4MF9XdHh5QmxXdw?oc=5"
-  },
-  {
    "title": "금감원 ‘랩어카운트’ 브레이크, 손실 책임은 수수료 장사 증권사? [뉴스톡 웰스톡]",
    "source": "뉴스웰",
    "date": "11.25 15:38",
@@ -535,29 +547,35 @@
    "source": "이뉴스투데이",
    "date": "11.25 15:02",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96YXBsR3VSZHFSeXQ4a0VBdWVXQVNmeUFDZlNlRkN4RE53UFFmV2hhb1I2Qk1TU2ttMC1MSy1yN3k4MXJNcE5Yc1JCZmJ0RHR1TGxqSURpZHBnVmViRXBybFVXQnoxUW1rUkI4QWxjc0_SAXRBVV95cUxQSTEtZlJGZElIcW16T1p0NzhFeU4yQVNhWkE1MHp0UnBQSHRMbVdHYzJRajY1cHZvWEVJa3J1dmpOeFBJdUFqME9OMXNScTByeTFEOGRqOXJHVFlxQVRqVEszbkJ5TzhBOHJoeEhsZThKQzRHaQ?oc=5"
-  },
-  {
-   "title": "모험자본 의무비율 두 배로…금감원, 증권사 투자 규제 푼다",
-   "source": "아시아투데이",
-   "date": "11.25 14:40",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsN24waV9tbmlRQkc2eXVidVNZbVVoTjQ4S3Boa18yQWwzU2cxbnNoSmJFaGVQUDBZXzlfMW1vZ0k5NHMwS1lZQjFPOENaOVBIMm9UVEFiNml1OTZPQzJ0VVRRaFdrcWhNaFNJcA?oc=5"
-  },
-  {
-   "title": "亞 테크 포럼 연사 나선 넥스트證 대표… 증권사 CEO 글로벌 행보 확대",
-   "source": "IT조선",
-   "date": "11.25 13:58",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44Um1CUkhaX2doRFhkbGlYOHNFd2I5SGpDZlQwVWVsRGpGREU5clhQQWplMmltN0cwcDF0bEMzZHVyN3B6amlKMTVQZ2NzaFdmM3BuRFVQUWdoaWRuRWdFQ3VNQlk1UlA5YmJ1MUtjSmc0c0ZU0gF0QVVfeXFMTjhSbUJSSFpfZ2hEWGRsaVg4c0V3YjlIakNmVDBVZWxEakZERTlyWFBBamUyaW03RzBwMXRsQzNkdXI3cHpqaUoxNVBnY3NoV2YzcG5EVVBRZ2hpZG5FZ0VDdU1CWTVSUDliYnUxS2NKZzRzRlQ?oc=5"
-  },
-  {
-   "title": "연 6% 발행어음 앞세운 증권사···은행 예금 고객까지 넘본다",
-   "source": "뉴스웨이",
-   "date": "11.25 13:33",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92UFg0VEI0UGpqLXNxS0wwSmFrS3BXYk1ET0xBS0ZIS2M5b0FFZVMxQkJRME1ha3pCUjA2a2dCc1lXRzFYT1pJbXlxaUdybHRMZVF3dWhMaXpvN0RZNHpjNHI1dEhHck9KZ1E?oc=5"
   }
  ],
- "industry_updated": "2026-11-27 13:26",
+ "industry_updated": "2026-11-27 14:42",
  "industry_days": 2,
  "hmc": [
+  {
+   "title": "[더밸류 브리핑] 오늘의 증권사 소식...한국투자증권·현대차증권·SK증권",
+   "source": "더밸류뉴스",
+   "date": "11.27 14:29",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoSmJZSUFjN0ZoQWZvWEJ2TU52Y1IwVGdFS0JTcXNKenVlb3NpVjl4N3RhTVJUQlN6Y0VsUjlCNkc3TmJ3RE1YNUJGQVRJS3RvTXREVQ?oc=5"
+  },
+  {
+   "title": "현대차증권 대학생 서포터즈 3기 해단식…'스트레치 골' 첫 도입",
+   "source": "아시아타임즈",
+   "date": "11.27 14:17",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLQUJZVHQyU3B0UW9UZXFXN1ZqZzRjRHd6NmdrdmFoS0ZLOEFQOF82YkF6dW9UZVFHc24tQUJyb1lNRHJYQUJ2UkxUQ3ZsQlJ6TzhfdzdOM0JucmNCZVE?oc=5"
+  },
+  {
+   "title": "현대차證, 대학생 서포터즈 3기 해단식 개최…3개월 활동 마무리",
+   "source": "이데일리",
+   "date": "11.27 14:07",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQjN3MkRHWHhPSlRJSnRlUk9fRHNPMmRKMzRJUnFDNUtBTDRLMFFkTVBKRWh2WEYxc2VOZWJJLWtEeXZyMVlwVEdFRl9uQUdlVWRSclNIZEsyZ0lPaDFHbWVubGNyQUozZ05Bc1hjSWlCVnpZLVJjLXJZM0hUWXRfYw?oc=5"
+  },
+  {
+   "title": "\"한국가스공사, 캐나다 LNG사업 이익 확대… 목표가 상향\" - 현대차증권",
+   "source": "비즈트리뷴",
+   "date": "11.27 13:45",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83LVBLak5lRTRfclRUMTNkWEJFN015T2E2Sm5YQUxwN3lmbkdpUUZBSUVDQ3Q4ZWxpeWE2X0x0d0lqX1RkVEFnQUZUTVJtcTJ1ZlZhZ3ZfTURYalB0N3dwRmd4WVkySVJneTYxZGtMZTA?oc=5"
+  },
   {
    "title": "현대차증권, 대학생 서포터즈 3기 해단식 개최",
    "source": "매일일보",
@@ -775,12 +793,6 @@
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00enRJOVZ0SGhNZDlseDVNX09SYkRVOWtqZ2FDVUx0VFZqWXZ2b3kzSFUzaTFBVEt2R3B5bHRPSmlTZEZwUXdWVGRDT2xpbGhOX01lTkZfRmVXckUx?oc=5"
   },
   {
-   "title": "[더밸류 브리핑] 오늘의 증권사 소식...NH투자증권·현대차증권· 교보증권",
-   "source": "더밸류뉴스",
-   "date": "11.23 16:52",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vbzFfLTQ2ZWVzU3ZtQ0UtNDhBRHl1cUZiVVltS2x6UkcwZUEtRzl6S1BWMElidlctSEtRNWU1TGJRN0p1ZnVUb3dGZ3FuSlhYQTI5WA?oc=5"
-  },
-  {
    "title": "현대차증권, 현대건설 힐스테이트 여자배구단과 스폰서데이 진행",
    "source": "뉴스핌",
    "date": "11.23 15:05",
@@ -829,16 +841,16 @@
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBeG9lTFZYYkdwZzh1ZmZaZFN1X1FqclF4Q0thR015ektWYjZhSGZMNUZwaFk4LUxNanBKRWs5VHZKU2tZOFFwYkVmbGtfTGR6bTVCYzYwcFNwOUlM?oc=5"
   },
   {
-   "title": "[리포트 브리핑]NHN, '국내 핵심 네오클라우드로 발돋움, 추후 일본확장도 기대' 목표가 100,000원 - 현대차증권",
-   "source": "뉴스핌",
-   "date": "11.19 10:49",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxTGd0em92YXJmREljRUhBaFVzNVRWeTBuSmR0d09GMUdhUFNjQm9UajFIYjBPbE83eTRBMm9vWjE2a0dnbC02WlZhdktZcHByQ1k3SE9GUG96MGRy?oc=5"
-  },
-  {
    "title": "[리포트 브리핑]크래프톤, '26년보다 나은 모멘텀, 확신할 수는 없는 실적' 목표가 280,000원 - 현대차증권",
    "source": "뉴스핌",
    "date": "11.19 10:49",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lTFlKaF81X2tQU1FQbUZfSzdFSTFfYzRicWQxRGRvZDVqajM3RlAxQjM1YnEyZnJsV1VWakhBNFlKYU1wbjAtSDFEVEJzU0FQbUd1WTFCQ2pkcnU3?oc=5"
+  },
+  {
+   "title": "[리포트 브리핑]NHN, '국내 핵심 네오클라우드로 발돋움, 추후 일본확장도 기대' 목표가 100,000원 - 현대차증권",
+   "source": "뉴스핌",
+   "date": "11.19 10:49",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxTGd0em92YXJmREljRUhBaFVzNVRWeTBuSmR0d09GMUdhUFNjQm9UajFIYjBPbE83eTRBMm9vWjE2a0dnbC02WlZhdktZcHByQ1k3SE9GUG96MGRy?oc=5"
   },
   {
    "title": "[리포트 브리핑]넷마블, '다작을 통한 성장 시나리오는 유효하나 공개된 정보가 적음' 목표가 38,000원 - 현대차증권",
@@ -907,7 +919,7 @@
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1X1dRUmNsSE9jMnZ3NERfam1Tbmk2c0paSnQ0M1hFVWFtT0xiMm9zeE92ZlF5TWhhUGFVcC14UkZUeld4dVlrRjdiZldGbHpHVFRxd0ZINGdpT0xG?oc=5"
   }
  ],
- "hmc_updated": "2026-11-27 13:26",
+ "hmc_updated": "2026-11-27 14:42",
  "hmc_days": 14,
- "updated": "2026-11-27 13:26"
+ "updated": "2026-11-27 14:42"
 }
