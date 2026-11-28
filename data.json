@@ -1,5 +1,7 @@
 {
- "notes": [],
+ "notes": [
+  "hmc 갱신 실패(이전 내용 표시): HTTP Error 429: Too Many Requests"
+ ],
  "sample": false,
  "industry": [
   {
@@ -25,12 +27,6 @@
    "source": "자본시장뉴스",
    "date": "11.28 15:00",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWOFlxN19BXzlRbDJMYVV1bFkwdS1jbG12b3BUczlRTEsyNGpkSHZDemptdG9tWmx5bWpMYWNYY1AtdzAwS19rdUp6elo1U0FKeUVFM2hPbWR2Qjd2TnJMUldFZ21JWUE?oc=5"
-  },
-  {
-   "title": "미국주식 12월 7일부터 23시간 거래…온라인 증권사 앞서고 대형 금융사 신중",
-   "source": "경북매일",
-   "date": "11.28 13:55",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82VDc4NEZzY2hzeGo5MXVNZHJ0Um80RlV2UFNZdXowWEwwdmJXenRtazhTdjdJdTk2UXlfMjRsMEF1bnBCemxlUzAzYm5rb3A0VHFGTzhJanJTdw?oc=5"
   },
   {
    "title": "증권사 자본 3배 불었지만…기업금융보다 주식매매로 쏠렸다",
@@ -261,7 +257,7 @@
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbEh5X04zMEVOV25pQVlaaXIwMFN6VHJJbHYyam94R21SVDY1bmxiWHdfS0NJTmU0al9WdGhhMzVXZ0FqWVBIdWhKTWM1c01tYzFxekQtam1NQU1rNGk5dG1hT0M3RDJQMTVWQm14RnZOdEpOLUZwaVJHRldtYnN0TWFscDVmRm9VTkExMlJR?oc=5"
   }
  ],
- "industry_updated": "2026-11-28 19:04",
+ "industry_updated": "2026-11-28 20:01",
  "industry_days": 2,
  "hmc": [
   {
@@ -681,5 +677,5 @@
  ],
  "hmc_updated": "2026-11-28 19:04",
  "hmc_days": 14,
- "updated": "2026-11-28 19:04"
+ "updated": "2026-11-28 20:01"
 }
