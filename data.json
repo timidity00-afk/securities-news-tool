@@ -3,6 +3,12 @@
  "sample": false,
  "industry": [
   {
+   "title": "미국주식 12월 7일부터 23시간 거래…온라인 증권사 앞서고 대형 금융사 신중",
+   "source": "경북매일",
+   "date": "11.28 13:55",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82VDc4NEZzY2hzeGo5MXVNZHJ0Um80RlV2UFNZdXowWEwwdmJXenRtazhTdjdJdTk2UXlfMjRsMEF1bnBCemxlUzAzYm5rb3A0VHFGTzhJanJTdw?oc=5"
+  },
+  {
    "title": "증권사 자본 3배 불었지만…기업금융보다 주식매매로 쏠렸다",
    "source": "연합인포맥스",
    "date": "11.28 10:56",
@@ -307,35 +313,11 @@
    "source": "MTN 머니투데이방송",
    "date": "11.26 14:54",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FMHhSTEJtNkhYV0dya0U2R0xuUi1zTHpzYUtLQlpxZ2ZyVk1KNTJ1ZnJLVjNIaklvX1FHN3lCd3BUVkx1UVlNV1Q5aTU3dEpaTXM4X2I0ZnE2YjY1Q2Rv?oc=5"
-  },
-  {
-   "title": "증권업(+4.53%↑)이 강세인 가운데, 코스피도 상승 흐름(+1.56%↑)",
-   "source": "서울경제",
-   "date": "11.26 14:01",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10amQwYzg5M2JxeTltYWZaZDFKVk1DTEF3azNpcUR2bVBzSkt2TE5HeVQ2VUVILV9xLVFzbGRRWVdfRkhZajJVdU5mLVp6bkNPMDlJ0gFTQVVfeXFMTXRqZDBjODkzYnF5OW1hZlpkMUpWTUNMQXdrM2lxRHZtUHNKS3ZMTkd5VDZVRUgtX3EtUXNsZFFZV19GSFlqMlV1TmYtWnpuQ08wOUk?oc=5"
-  },
-  {
-   "title": "다올투자증권 매각설...증권업계 지각변동 올까",
-   "source": "미디어펜",
-   "date": "11.26 13:58",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wdWpRYUZFWWVSY0NJM3NXc0doR0ZpSGZlMHlLWGowS0trSVVWYUtUTnl3cllUQS14cmQ5SG5laUJ4MjNDV3JJNDBtaGJ0ZjhRakhvONIBWEFVX3lxTE8taER4ZUlFNWlrMjVraEIyQVZ5V3NyUGFmMmgwOHhQX216ODh0X1pOMTljQ2JBLWxVRGRmbkhyNWxSWG1xRi1HZmZwNXlsdExIaXlnSUlwcUw?oc=5"
-  },
-  {
-   "title": "[기자수첩] AI 경쟁 불붙은 MTS…투자자 편의는 ‘뒷전’",
-   "source": "브릿지경제",
-   "date": "11.26 13:23",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VMm42Wm5BM2tzNFllb21XYk9fNXBtaEYxVExFNFluMHpidzN5SFhZS1JmSDBPLTJ6WF9hMWVJX0VKSWNFRHNCQ1NZZXNHZDdDMTJpS3VhWXNGQQ?oc=5"
   }
  ],
- "industry_updated": "2026-11-28 13:12",
+ "industry_updated": "2026-11-28 14:16",
  "industry_days": 2,
  "hmc": [
-  {
-   "title": "현대차증권, 보통주 39만113주 자사주 취득",
-   "source": "비건뉴스",
-   "date": "11.28 00:23",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PSFNsQlQ5bnBZNUlpYm9OeWdqZ3BsN3k4N19RTVRyV2FEQjEwQnpmeVdaN0ZhODhtVGppTFRyM19fVTFtV0RnZ3F6UHNieGpRWTVlLS1CVWxTdlFBSk94eExZUG1KZw?oc=5"
-  },
   {
    "title": "[증권단신] 현대차증권·한국투자증권·신한투자증권",
    "source": "데일리한국",
@@ -361,10 +343,10 @@
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XYVZxdFdtejRCRkNCc0lFWnk0UkZQTGpLSnVDZGpfQkRjSXdlVVVuaTN5Rk1RUkhQWEVxM200eHdSZU4tcVRLUGFwWkFLLVMxNTBSVm5ab1NQNXRXTF9F?oc=5"
   },
   {
-   "title": "현대차증권, 대학생 서포터즈 3기 활동 마무리…2030세대 접점 확대",
-   "source": "SR타임스",
-   "date": "11.27 14:46",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyWEp2REJ5dE5LanBJRHhvWWt2ZHY3SndUd0dRTzZCNU02UERtbkRnV3lEaXZXekx4XzI4b1l3aEdiZ3plWjhIMWxtR01oZkQzcXg5MkFxOGpxbUoxRnlFOWo4amxJX2fSAWtBVV95cUxQLUVKbkE4bDB3YXlZM09adGZaZUxPQ013eW1FRThRTE1JVnhyTWJacXBFOFI4bVZ5UjVHYVBSX1FUbEp2VDRROS1fd29VVmpIajRBLWNhZHRRSmxMWll2bTNWWFRYX2p6a2FFYw?oc=5"
+   "title": "제원 마련 차질?…현대차증권, 132억 규모 ELB 발행 취소",
+   "source": "한스경제",
+   "date": "11.27 14:45",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uV0hMZEVraFlRME9xb2lnWkdOU1pZRVpiTkFJNjFhSWZhVnNCRjBGRTVDUTJSTThsYUtRNVJuaVBkamJZdjhKc1EwX0RKSGVOb2hQYUNodVRuZ1FLVHZtbDJpOVFkMEtjdWpn0gFvQVVfeXFMTmI2UG4wZzBCTGR5R2s5NDVLVU5sNWs5elc5M1pnTHQxOGdqMm9yT3dEVkc5YXhienF4UzFSekRSOUxoQ1dvUndhZjY2UU5zQzRZZHM1Wkx1N2FnVTc1X2M3MVJHNlBJMmpSWWU5dFJJ?oc=5"
   },
   {
    "title": "[더밸류 브리핑] 오늘의 증권사 소식...한국투자증권·현대차증권·SK증권",
@@ -385,22 +367,28 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQjN3MkRHWHhPSlRJSnRlUk9fRHNPMmRKMzRJUnFDNUtBTDRLMFFkTVBKRWh2WEYxc2VOZWJJLWtEeXZyMVlwVEdFRl9uQUdlVWRSclNIZEsyZ0lPaDFHbWVubGNyQUozZ05Bc1hjSWlCVnpZLVJjLXJZM0hUWXRfYw?oc=5"
   },
   {
+   "title": "현대차증권, 대학생 서포터즈 3기 해단식…2030세대 소통 접점 확대",
+   "source": "글로벌에픽",
+   "date": "11.27 14:06",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TVTItWGFVX1hoZ0w2SnhIUElJanI0dy1EcEVQejJ4N2hMdjJ5UkZYSHZvdmxhVHVsU0RtYWxsalpWa2NETU5heU44OWwtMWRGNUdoMm56SXRrWFdJd2w5TnQ5Q1pFN0JMLWtpNE9NMFMxQU1qSGVfLUlxMzY?oc=5"
+  },
+  {
    "title": "\"한국가스공사, 캐나다 LNG사업 이익 확대… 목표가 상향\" - 현대차증권",
    "source": "비즈트리뷴",
    "date": "11.27 13:45",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83LVBLak5lRTRfclRUMTNkWEJFN015T2E2Sm5YQUxwN3lmbkdpUUZBSUVDQ3Q4ZWxpeWE2X0x0d0lqX1RkVEFnQUZUTVJtcTJ1ZlZhZ3ZfTURYalB0N3dwRmd4WVkySVJneTYxZGtMZTA?oc=5"
   },
   {
+   "title": "\"2030세대 접점 확대\" 현대차증권, 대학생 서포터즈 3기 해단식",
+   "source": "https://www.catchnews.kr/",
+   "date": "11.27 11:19",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mOHRzdDRUTWJOWEs1TEMteXo1MDlMLWtTUGJvLTBCeE16Y0lkanNzajdNdzlkalR3SDZwaktEcC13RDBOeVlrSEctN2NCREszeldyS2JJaGRqd3pVaTNDSF9ZWF9aaHlGWWpN?oc=5"
+  },
+  {
    "title": "현대차증권, 대학생 서포터즈 3기 해단식 개최",
    "source": "매일일보",
    "date": "11.27 11:08",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KVUwwd3AzT0lWMldDczJqN2tCVFlNWWlzOXlsbExXaEd1UEZ3d0ZqWDJNa0ZNSUdaNkMwckJEYUJ2WWQwR19rTHpBMzlZWDhMZHlzMGdDZm1NcUVVX1VuS18ycDM?oc=5"
-  },
-  {
-   "title": "로보티즈, 우즈베크 공장 증설로 생산능력 2.6배 확대… 목표주가 41만5000원",
-   "source": "현대경제",
-   "date": "11.27 10:07",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KMmpQWGY0djdXalVxVDJxUTNnUmx4S3JHZVBaaXBSVGp4YXdpZUNib0J1RWVkbG1mOUdsT2FvUTJKRUVpRUotMVpDaE5vNExNbllYOGlMUkFnM190ZlB5X2prTTdhZDZLODA4?oc=5"
   },
   {
    "title": "현대차증권 \"로보티즈, 내년 매출 2배↑\"…목표가 41.5만 원",
@@ -415,10 +403,16 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWhqRHdNRTcwOWMxRWQ5b2I1VVVkTjVHNUZqN3JITWlSZXc0cjRSMHIycTg3RkNLUTBrYkw0bEdURlNPVlBYMDFTVTBEbGhTT3ViRmd1VU1SYkxLLVloR1pkLTluM0o1WXZONjZ5SXdlTldabTByNWFBLTBTNFhuU3o2b2VQVUZO?oc=5"
   },
   {
-   "title": "현대차증권, 불법사금융 예방 ‘사람 살리는 금융’ 캠페인 동참",
-   "source": "더퍼블릭",
-   "date": "11.27 09:26",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wZnc0T1ZHbE1fR0VlalR4SU9zQVppelFxeVpLMWxYeXlJcFQ1WC1nNWh0SlRiQzFrNWZhMkN4NnNCRzhhTzB6UFBQZDVDa05hNFVtdmJOdmxIUFp1YUo4RTROXzhDSXhEdjVn0gFvQVVfeXFMUENWN1BfRmV5cVpIUU9KOWptNUtXektCWW9VLWUtT2JhUmpWeGFZbjhVajdfdHZFVXJhNURXS1g0RmdUcXFvYno4U3Q3TDV0Q3d1MEJtSTZwbHRTanAwSXBpT2NJeEE2VXhHQXRHTXdZ?oc=5"
+   "title": "'홍의락 사장'의 리더십···한국가스공사 연결영업익 급증에 현대차증권, 목표주가 올려",
+   "source": "팍스경제TV",
+   "date": "11.27 09:18",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14ZUV6VW5CckJiYWhJamUtNjhHTzRadTJXUktCblBCMThaVXRqSlNyZGNwM1B0cUx2YzQ0Z1RaY2xOTTk2VUNpT1RER0kyTE12Q3pkQ0x4RU90bWEwRkUyWnRtZXlrTFZr?oc=5"
+  },
+  {
+   "title": "[리포트 브리핑]로보티즈, '분기 실적보다 2027년 성장성에 주목' 목표가 415,000원 - 현대차증권",
+   "source": "뉴스핌",
+   "date": "11.27 08:50",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fcnRoRERjc2hpUmluV0I4Y3l0NjAxOEVEYkVSb0VIUVdDbXBJSkhLdHMwUFMxWkJIemlBYkg1UlpGYnZuTFgyanZ4WnJCZnY0dXNCbEdnLTFVOHJ4?oc=5"
   },
   {
    "title": "[리포트 브리핑]HLB이노베이션, '기대되는 ASH 구두 발표' 목표가 24,300원 - 현대차증권",
@@ -451,10 +445,22 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hZnozOWJkbmNDZzZOWlhFanU3bm5LMkJ0YVIwS1lZZXlzcHZYQjRScXAtb25VNjNFUkc1dHlIWG9CaldBejBxc3MxaXpqeTFLR2I4WWtHMGVvZw?oc=5"
   },
   {
+   "title": "현대차증권, 불법사금융 피해 예방 캠페인 참여 … 금융보안원 AI플랫폼과 사기 의심 정보 공유",
+   "source": "투어코리아",
+   "date": "11.26 18:42",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tR29ETGJhNnhncnJBdnR1cnVxYVNuSk5CS1ZlTDVtZUV3VWkycEV5Rko2MDNrdUNBSWZqY1ZaMEhMQ2JPOTRLZ3FWMklIQ2o4TjJxUDF0S0M2OHg5VG5namw5ZGtwdUFfYWMtU0lR?oc=5"
+  },
+  {
    "title": "현대차증권, ‘사람 살리는 금융’ 동참",
    "source": "이뉴스투데이",
    "date": "11.26 17:49",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Dbk15SG44bkFlNGRCM2VDc1FCOHJkUEVzNUJub0c0b3Noaml6T1JvX0RTOVNzVVljSHhuMUVvWDNOZjRicTVkUmVVazJWUG5YV0djaEU5R1kwOUtOT0dRM1BrTVQ5Qi1zcEhSY3dJYnrSAXRBVV95cUxNTHRVY0dvRjV5MmJMUS1iSHNGX0ttbU5GOXZ4Tl9nZWkzUDQ4NW5jZ1l4b3ljc0g3NDJLMVFRLVprVDJ1V0ZiWHQ3RzhOeHBjdkJOOGZpWlg1T1NWMXVoWFI4eVNTSm5jVFV2TC1TQk9yMzJkOQ?oc=5"
+  },
+  {
+   "title": "현대차증권, 불법사금융 피해 막는 ‘사람 살리는 금융’ 동참",
+   "source": "스페셜타임스",
+   "date": "11.26 17:13",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yMXBiSGwweC1SQ21TdjFoUHZ4S2Y4eWd0OXl3NE5LZEJxY3NyMEFvcHU4V0JLX0dfS29QaEs1TlQ1Z1FmZFBqVWVEdjNpRUdHaVVjVFI4Wk1ia3Z4R2FyRnBEc3NnR1Z2RUZWV212Z3FjZw?oc=5"
   },
   {
    "title": "[더밸류 브리핑] 오늘의 증권사 소식...메리츠증권·하나증권· 현대차증권",
@@ -469,16 +475,16 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CcjFXUkw1QlZjOEhsUkJQMW1NM29iRUxFdHg5VGxEWXVyR0J6TkloY2l0YUNrdklhTTBrZl9FdmY0Y2RMb1pleFRkTURCaDcxeE9VN2paN1VsdnVfNHE1YnNXSXgxaTJNVGc0aGJhbVhyU2lH?oc=5"
   },
   {
-   "title": "증권가, '사람 살리는 금융' 한뜻… 금융사기 예방 강화",
-   "source": "비즈트리뷴",
-   "date": "11.26 14:53",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WXzEyeFRnMmpxbXl2emZDN1RhQjJ2NjhwRzV5WG1RcTFra3ZMMFZhYWhRMkUtVEJhczNpMFJmby1OR0pYSmRmMVNlM2ZGM1RjM2tKT2l0ZFNxWU16NEhmUEZSUm5UQ2pONTJfSWwxLUI?oc=5"
-  },
-  {
    "title": "배형근 현대차증권 대표 유임···현 경영체제 유지",
    "source": "뉴스웨이",
    "date": "11.26 14:32",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85eThtTzJiM0swbmJFNEFMcS0xbVZNSVVVX0kwVjZkY1NHV0VOdVJZSllua09aTEE5VjhSSlFjbzhXUVZUbGtIZ1ZwbHFlTlhqNUItanliZzNKXzVqSWgwT08wVUQ2VnZwa0E?oc=5"
+  },
+  {
+   "title": "[CEO 직썰] 배형근 현대차증권 사장 “금융 통한 기회 확대·안정적 삶 지원하겠다”",
+   "source": "직썰",
+   "date": "11.26 14:28",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSWUMxZTFUX0R6YXk2RC1uNXVYUGQxcTBFckNsdnRhbGZ5anhkdkFWSFp0LTB2OWFEQ3l4Vmp6VDQyRlVlaGVndnRtV2w1dGszZHcyVEVyYVVNVG5sdC1YY0huNHRYNjRxWVk4RtIBbEFVX3lxTFBSWUMxZTFUX0R6YXk2RC1uNXVYUGQxcTBFckNsdnRhbGZ5anhkdkFWSFp0LTB2OWFEQ3l4Vmp6VDQyRlVlaGVndnRtV2w1dGszZHcyVEVyYVVNVG5sdC1YY0huNHRYNjRxWVk4Rg?oc=5"
   },
   {
    "title": "“불법사금융, 생계와 가정 위협”…배형근 현대차증권 사장 ‘사람 살리는 금융’ 동참",
@@ -493,12 +499,6 @@
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82cklCUnhjb3ZUU2szTFZkLVBURVN6cC1FMWlyMXNaenNjTnFOWEowWGc1Ukd2NTRveDFlalhfOFFKYVdNazdxQVRDcXpZVk54Mm5fTmpfVlVGY3ha?oc=5"
   },
   {
-   "title": "현대차증권, '사람 살리는 금융' 동참…AI로 신종 피싱 대응",
-   "source": "중앙이코노미뉴스",
-   "date": "11.26 13:45",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0RTctcG42NXJpSUR5OEJ0Z3NvWUZZeFlGaVJRRkhFOVNXTF9hVHRPWkVqemplbWdrTnpkRVkxVjE4SWhCWk9XLU9lU0h4OVZNTjZoaUJjenNYcmFGanB0WklQaDhreGhvazR2ZjNHR041dw?oc=5"
-  },
-  {
    "title": "교보증권·현대차증권·KB증권, 취약계층·금융소비자 지원 확대 [여의도 소식]",
    "source": "매일일보",
    "date": "11.26 13:37",
@@ -509,12 +509,6 @@
    "source": "파이낸셜뉴스",
    "date": "11.26 13:36",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sSnBENElHSWl0VG9BbExIMTZyMWExMVVkLURKM3VoRDN0VFBNV0xVa0R6WU5lVXQ0TlVZSndON3R5aFNiX2VoWUJLbXo1M0xaUHlJQUQyTGVDQQ?oc=5"
-  },
-  {
-   "title": "현대차증권, 금융 취약계층 보호 캠페인 참여…불법사금융 피해 예방",
-   "source": "아주경제",
-   "date": "11.26 13:18",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5weUVxMlZTdHgtTk1BdUhENm01VWwwSEJ6QS13SGU4SHRNSDZQeUlhZWlfeGZFS2JpZjAxajBNMW9LTWNFTE9ZZ1NsdGhHTWRUbVYwNFdfS0JNd9IBWEFVX3lxTFBua1R0M1BhSzhKa3JTV1dHaE04RFc5bFZCc1VydmRMV2hMcFNlNzdoVGFkYzZFcHFESjhkcUVadC1GeDltUlE4NnlxWEJ5bmxXdERaLW9oMzg?oc=5"
   },
   {
    "title": "현대차증권 배형근 사장, 불법사금융 피해 예방 릴레이 캠페인 바통 받아",
@@ -541,12 +535,6 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJRHNhWVJtY2FzeVhuU0JlTE1FTWUyalFoYVVlOHJpYkxEYVFFZjZfLVdjTFJEcF9PcV90SEV3NjJndTlsbXhQWXFjUEpmVk50d2c?oc=5"
   },
   {
-   "title": "현대차·기아 사장 유임, 현대모비스 등 수장 교체…SDV·제조혁신 '전진 배치'",
-   "source": "뉴스핌",
-   "date": "11.26 10:47",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uRGJ3WUViQ1V4S3I5V2ZldnFtcHhCZWZ4V0o2WnJhZGRiUFFadmVBaTlfLVNyX3kwQUFDNlBVS1FOdUgwejlONFJ0V1FJR3lmelR4R2F0QVBweTRi?oc=5"
-  },
-  {
    "title": "배형근 현대차증권 사장, ‘사람 살리는 금융’ 앞장",
    "source": "스트레이트뉴스",
    "date": "11.26 10:45",
@@ -557,12 +545,6 @@
    "source": "글로벌이코노믹",
    "date": "11.26 10:38",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0dMNDk2QUlrTnAzTkZKa255ZUFsUUI4d0l2WVhMT0xrUi1ZbVhmckExQXIyc0RoZl95WHJmaXRDUEdCd2ltTWpmbk81TGQtQUtuWUw5OGdVRHFDUE9ObGVJbHhPdHFnZ0lNTmJ6WHJJWHRCLVlkWk5MYl8wQlc0Ql9yaFZ3R3Aw?oc=5"
-  },
-  {
-   "title": "[증권가 NOW!] 우리투자·카카오페이·한국투자·현대차증권...\"연말 절세부터 장중 수급까지\"",
-   "source": "한국면세뉴스",
-   "date": "11.26 10:32",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vWHV6aUJINFZLSElVaTA4dlFSRVBhajIzT3FQc29hTl9heGFjM2JmUFlZb2JWV3JkaW5GQjVIM2tidFhRNjhqZlUwRU1kb0RZWnFKbjFoejhFLU1CUnZtanowdWl2NDFhSUE?oc=5"
   },
   {
    "title": "현대차그룹, 모비스·트랜시스·엔지니어링 수장 교체…SDV·제조혁신 '전진 배치'",
@@ -577,18 +559,6 @@
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSlM0QTlWb1JGWUdBQ3VwTXVqVmp1QU1Lc2ZJaTRTVmNTM1c3MFViNmphLXpSMnlZM0NXaG1YMHI3cW4wR2xlNjhFZ0hFMV84aXE1eHZlZGdYMm9YSDg1TjFwMXhLa2FIWVV4Z0hwUjN6TGN6NmpzUVh4ZWpZaHIxNW44a21Va0lfZnVOM1FQcWpNZ1VJejNwWlpGSQ?oc=5"
   },
   {
-   "title": "현대차證 “코스피, 12월 반등 가능…HBM4가 반도체 이익 모멘텀 이끈다”",
-   "source": "이투데이",
-   "date": "11.25 08:06",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZRUxNMl83WHd2UGRSX3lnSFAtU0RrRzVFQWZ3SUxwVS03bWRCdVhhal9wWWhHVnZUd2UwdG9wWVdBX2dWUmY5MWJKNXFoM1prVHl3Sg?oc=5"
-  },
-  {
-   "title": "'내수 절벽' KGM·한국GM, PHEV 승부수…현대차 빈자리 노린다",
-   "source": "뉴스핌",
-   "date": "11.24 14:32",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00enRJOVZ0SGhNZDlseDVNX09SYkRVOWtqZ2FDVUx0VFZqWXZ2b3kzSFUzaTFBVEt2R3B5bHRPSmlTZEZwUXdWVGRDT2xpbGhOX01lTkZfRmVXckUx?oc=5"
-  },
-  {
    "title": "현대차증권, 현대건설 힐스테이트 여자배구단과 스폰서데이 진행",
    "source": "뉴스핌",
    "date": "11.23 15:05",
@@ -599,6 +569,12 @@
    "source": "글로벌이코노믹",
    "date": "11.23 13:57",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeHAyR0tyVEJoV1pKVmgtV2hHMzdCc203akE5TUtXTW1OWXB5czB4VWtFNnQxMWlpdHFGNXRjWVlndkN2WVlxVEI3UTlRQ19Ycmw2WjJGVjRWbEtmdDRXOXdxQzY3OVVHNHhlclNKRnlVY3drd3hTN2lSR1o5U2tPcXE4ZG1OcTdX?oc=5"
+  },
+  {
+   "title": "[증권 소식] NH투자증권·교보증권·현대차증권·금융투자협회",
+   "source": "토요경제",
+   "date": "11.23 13:50",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13TkVSU2VESmZvczdKbWZ0STdwZkR6NmM2VkU3M2tfZ2VuVkZnNHVxclA1UWZUOWdHenVUa1VNZUxWS2g3TUVRcVVZZURpMlpPNlFrUFJwSTNKWi1MSWo4NtIBb0FVX3lxTFBCS3llVjRYVWUwMVo1Ry1CU3h3NlZyeWJ1M0hiMFNzSXFHSklqLWNFWHdNZ08xbkdJNnpDN05xbF9EN3FNMHBkQmp3UHRRcmZrd2Fjb2JYb21JZDFXbmpZb3RSYVFpcGItZFM0ZzZyYw?oc=5"
   },
   {
    "title": "[2027 증시 앵글⑦] 장문수 현대차증권 센터장 \"내년 코스피 상단 1만500선…하반기 반도체 주도력 회복\"",
@@ -649,10 +625,34 @@
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBeG9lTFZYYkdwZzh1ZmZaZFN1X1FqclF4Q0thR015ektWYjZhSGZMNUZwaFk4LUxNanBKRWs5VHZKU2tZOFFwYkVmbGtfTGR6bTVCYzYwcFNwOUlM?oc=5"
   },
   {
+   "title": "NAVER, AI·커머스 투자 확대로 수익성 압박…목표가↓-현대차",
+   "source": "인포스탁데일리",
+   "date": "11.19 12:37",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNckYzbXFkT2N2R1ZOaFNJVlRxOTE3enhaRnNSeW1PbHBIbEljSjIzN3JLN3NodTVFQS1vMG1NamdxQ3p4cHpEQTh2Z1Ezd3FrX0VMY1k5Nkd4OURuNnJVYmJiUmVwZG1mbzFmVUVkN1ZoRWl3Ymc?oc=5"
+  },
+  {
    "title": "[리포트 브리핑]카카오, '인적분할 후 카카오 AI 매수 권고' 목표가 39,000원 - 현대차증권",
    "source": "뉴스핌",
    "date": "11.19 10:54",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9peDVrNjh1NGpjU3JHYm9VZlNJNUxiNkVORnltNVBBWWtieWM2T1ZWOGJBS3dIanh0bXZPdWk0ZWh1T2lsMklVN1VhZ1RvWlhOYUxwSmpDWnM4UDJR?oc=5"
+  },
+  {
+   "title": "[리포트 브리핑]NAVER, '본업은 진퇴양난, 네오클라우드는 무난한 출발' 목표가 290,000원 - 현대차증권",
+   "source": "뉴스핌",
+   "date": "11.19 10:49",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iRXRPZEtveDVjV3ZmNnVZNkpQU1JaRlFBU1NSN0tSYUtSY09wNUtPRGF5Tm9qN25MZ0JicDFQVmFSaHh1X0c5YTFOTUFZUjl2SnJzY1FVUHgwckpr?oc=5"
+  },
+  {
+   "title": "[리포트 브리핑]삼성에스디에스, 'AX 수요 증가에 따른 성장 가속화 전망. 멀티플은 신사업이 결정' 목표가 300,000원 - 현대차증권",
+   "source": "뉴스핌",
+   "date": "11.19 10:49",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54ejFLdzZaZUZyQnkycUFtdHpiV2VfdnFFb2pqLWNKR0NkQlc4a0x0TGltX2t2MWdQa3o3NmRtLWJjVncxUE56YkpvSzhXM3dodG9VM19HRE9NRmxS?oc=5"
+  },
+  {
+   "title": "[리포트 브리핑]LG씨엔에스, '금융 수주 대호황에 얹어질 AI 비즈니스' 목표가 100,000원 - 현대차증권",
+   "source": "뉴스핌",
+   "date": "11.19 10:49",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13TjFSX2huRXBCNC01Vml6U0h3RGwyQno0dS1FNi1tNHc3ZnNaRU5TYWJqaUNsdFhsWmJtRTNYS1NZcy1zX2hKVU1Id25VWEx2MUd6akdQTU8yNzlL?oc=5"
   },
   {
    "title": "[리포트 브리핑]크래프톤, '26년보다 나은 모멘텀, 확신할 수는 없는 실적' 목표가 280,000원 - 현대차증권",
@@ -665,6 +665,12 @@
    "source": "쿠키뉴스",
    "date": "11.19 09:42",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5reWhrNWk4bzAtS0poVS1BMFBVRkM1U21Zb1d5SGlqWlBhT0w2X0xVQ2swYjluSUFyQUxMVHlab3ZiQ2d2Q3FicWE0N09XRFJmUjNnZjc0V0xzeVFidENxaU5SRQ?oc=5"
+  },
+  {
+   "title": "[한국 전기차 위기, 긴급 진단] (完) \"생산세액공제\"...국내 전기차 생산 유인책 절실",
+   "source": "뉴스핌",
+   "date": "11.19 06:01",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fODBiMUQ0M0taNmdtT09uYXllU2Vrc3F5UW5Gc1R0a2ducFdyNG1YTzNHM3Q1bE82NVBFcmdrMVA0MzEzWEkyYy1TU2RGY284Ymp4ZlN3SGdzbWxM?oc=5"
   },
   {
    "title": "[내일은 종투사, 중형사가 간다] ④ 현대차증권, 수익원 그룹 의존도 낮춰",
@@ -691,6 +697,18 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYWDBhcHhmbGhMZ3BZckQyQ3ZMZ19oSXhPNEFoRmx0OVl3OGMyNnBqTWxrTlBUc1hqS2FLUGgtY0R0Y21iUGtGdkFFRFY4LWw5Q0llRXlGM2pLZw?oc=5"
   },
   {
+   "title": "금호건설, 국내 대형 인프라 사업 참여 기대…목표가↑-현대차 - 머니투데이",
+   "source": "머니투데이",
+   "date": "11.17 17:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kbExDZnRabkhEWWxmOWplMHJzei1BcENoZkxXY3h4S0hfc0Q0dHVXaU9NRnFxS1pqam1GbDdfTXRFNmNHa183dzlNRGhvSF9OVXdpWEVKSHVhVkQ5MnBLcTNlZ25hbHVL0gFuQVVfeXFMT3hUYnhrc0ZFZmFISFZYaXNiTmVjMWROcFpQc2dlSFNUNVgyT2hWZjBLMWRkeTdDaHhZcGlzNDBkaXRISVBZX1JocDNjcVFTSVdNLWJZMklaNjBuWmZCajBZcG5MQVZ1a1UyRHVEU2c?oc=5"
+  },
+  {
+   "title": "현대차證 \"금호건설, 공공주택·인프라 수주 확대 기대…목표가 163% ↑\"",
+   "source": "뉴시스",
+   "date": "11.17 08:55",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uLUgwV2dzcUo3Wkg5NFhqay05R1F6Y2dRNkloUjZhVDRYdWFGZjlPbnhKb2FFMG9ocERyOTNWMGlMd0V4c2pnUVNhQmI0TnBObVdPbUpoeXFFMzhQT0ZCX1FadzVoZThrT0w5SkpDb3daV09iWV9MSdIBeEFVX3lxTE1uLUgwV2dzcUo3Wkg5NFhqay05R1F6Y2dRNkloUjZhVDRYdWFGZjlPbnhKb2FFMG9ocERyOTNWMGlMd0V4c2pnUVNhQmI0TnBObVdPbUpoeXFFMzhQT0ZCX1FadzVoZThrT0w5SkpDb3daV09iWV9MSQ?oc=5"
+  },
+  {
    "title": "현대차증권, 2027년 LEAD 기업 2년 연속 선정 | HMG TV | 현대자동차그룹",
    "source": "Hyundai Motor Group",
    "date": "11.16 17:00",
@@ -709,7 +727,7 @@
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XcjgyNWQwRm5zZ3ZnczNYVUU4WlVYNXRJeHd6RnVCQldPNS02dTQ4OFpEOUhiTzhORGI0SXdpeHN4QWxhdmd6VHE3LXhMWlBnb2gtU3dYTm4wNlhz?oc=5"
   }
  ],
- "hmc_updated": "2026-11-28 13:12",
+ "hmc_updated": "2026-11-28 14:16",
  "hmc_days": 14,
- "updated": "2026-11-28 13:12"
+ "updated": "2026-11-28 14:16"
 }
